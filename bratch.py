@@ -1,8 +1,3 @@
-'''
-nov12: split from parsley to pare down and focus on just bracket functionality (and escapes)
-'''
-
-# brackets from scratch
 class Bratch:
 	def __init__(self):
 		self.important_chars = '[]'
